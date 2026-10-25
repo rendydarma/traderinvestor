@@ -1,0 +1,17 @@
+# TradingView
+tradingview/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Portfolio & Reports
+papertrade/
+**/papertrade/
+*.csv.tmp
+
+# Environment & Harness
+.env
+.omp/

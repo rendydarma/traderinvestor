@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "tradingview": {
+      "command": "node",
+      "args": [
+        "C:/Users/rdarm/Downloads/traderinvestor/tradingview/src/server.js"
+      ]
+    }
+  }
+}
